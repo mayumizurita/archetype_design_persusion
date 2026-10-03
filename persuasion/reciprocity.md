@@ -22,4 +22,4 @@ This principle works because it changes the emotional frame from “I am being m
 - [Nielsen Norman Group: The Psychology of Free](https://www.nngroup.com/articles/psychology-of-free/) — how value-first offers shape user behavior and decision-making.
 - [Behavioral Scientist: Why Reciprocity Works](https://behavioralscientist.org/why-reciprocity-works/) — practical explanation of the social obligation created by giving before asking.
 
-These sources support the definition, examples, and practical use of reciprocity in persuasive design. The examples above are simplified applications, not evidence-based performance claims for a specific brand.
+
