@@ -11,7 +11,7 @@ You recognize the Creator archetype by language and visual choices that emphasiz
 ![Modernist Bauhaus Creator hero design](../assets/heroes/creator/modernist.svg)
 
 Archetype: Creator
-Style: [Bauhaus](../styles/modernism/bauhaus.md)
+Style: [Bauhaus](../modernism/bauhaus.md)
 Persuasion: Authority
 Headline: "Form meets function."
 CTA: "Start the project"
@@ -22,7 +22,7 @@ This version frames the Creator archetype as a disciplined maker: precise, inten
 ![Vaporwave-inspired Creator hero design](../assets/heroes/creator/postmodernist.svg)
 
 Archetype: Creator
-Style: [Vaporwave](../style/postmodernism/vaporwave.md)
+Style: [Vaporwave](../postmodernism/vaporwave.md)
 Persuasion: Liking
 Headline: "Make it your way."
 CTA: "Start the project"
