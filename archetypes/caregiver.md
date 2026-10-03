@@ -21,7 +21,7 @@ CTA: **Claim Your Complimentary Care Guide** — delivers a digital textile care
 
 
 Archetype: Caregiver
-Style: [Memphis (postmodernist)](../postmodernism/memphis_group.md)
+Style: [Memphis (postmodernist)](../postmodernism/memphis-group.md)
 Persuasion: Reciprocity
 Headline: Care for someone else. Get support for your next step.
 CTA: **Get the free care guide** — opens the guide download.
